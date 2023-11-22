@@ -24,7 +24,7 @@
     with <b>Problem Solving</b> and always looking for challenges 
   </em> 
   <br>
-  <h3 align="center"><b><i >"Failure builds what you are today!”</i></b></h3>
+  <h3 align="center"><b><i >"MAKE THE STEP MAKE THE WINS!”</i></b></h3>
 </p>
 
 <hr>
