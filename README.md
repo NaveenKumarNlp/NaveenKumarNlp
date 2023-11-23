@@ -8,6 +8,7 @@
 
 <p align="center">
  <a href="https://leetcode.com/NAVEEN_KUMAR_NLP/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_naveen" height="35" width="130" /></a>
+<a href="https://auth.geeksforgeeks.org/user/naveen_kumar_nlp" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="geeks_naveen" height="35" width="130" /></a>
 <a href="https://www.hackerrank.com/profile/naveen_181ae118" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_naveen" height="35" width="130" /></a>
 <a href="https://www.linkedin.com/in/naveen-kumar-nlp/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lin_naveen" height="35" width="130" /></a>  
 <a href="https://www.instagram.com/naveen_kumar_nlp/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta_naveen" height="35" width="130" /></a>
@@ -43,19 +44,11 @@
 
 ### 📌 Programming languages
 
-<p align="left"> 
-  <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
- 
- 
- <a href="https://devdocs.io/c/">
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  </a> 
+<p align="left">
   &emsp;
-
-
-
+    <a href="https://devdocs.io/c/"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> </a> 
+    <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+ &emsp;
 </p>
 
 ### 📌 Databases & Cloud Hosting
