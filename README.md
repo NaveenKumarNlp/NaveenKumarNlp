@@ -58,8 +58,6 @@
   &emsp;
     <a href="https://www.postgresql.org/docs/"><img alt="PostgresSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
      </p>
 
  ### 📌 Software & Tools
@@ -68,6 +66,8 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -76,9 +76,6 @@
 </p>
 
 <hr>
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
 
 
 <br/>
@@ -90,7 +87,10 @@
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=NAVEEN_KUMAR_NLP&style=dark)
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=NaveenKumarNlp)
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=NaveenKumarNlp&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=NaveenKumarNlp&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenKumarNlp&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/NaveenKumarNlp/github-stats">
+<img width="400" src="https://NaveenKumarNlp.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://NaveenKumarNlp.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
 </p>
