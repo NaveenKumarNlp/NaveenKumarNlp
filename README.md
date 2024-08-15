@@ -19,7 +19,7 @@
 
 <p align="center">
   <em>
-    A <b>Programmer Analyst Trainee </b> @Cognizant
+    A <b>Programmer Analyst </b> @Cognizant
    <br>
    Working in <b>Sql,Java,Python,Spark,Pyspark,Data warehouse,Data modeling</b> </b>&nbsp;<br>Who is <b>obsessed</b>
     with <b>Problem Solving</b> and always looking for challenges 
