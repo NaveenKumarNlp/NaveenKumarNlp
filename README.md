@@ -34,7 +34,7 @@
 <p align="left">
  <br>
 ✔ Callme: He/His || SmartWorker  <br>
-✔ I’m currently a Software Developer <br>
+✔ I’m currently a Data Engineer <br>
 ✔ I’m looking to collaborate with any Open - Source software projects<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
 ✔ Fun fact : I Always prefer challenges as it makes life more interesting to deal with <br><br><br><br>
